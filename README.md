@@ -1,3 +1,2 @@
 # trigger-test
-
-Testando
+Teste
