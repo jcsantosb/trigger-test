@@ -1,2 +1,2 @@
 # trigger-test
-Teste
+testando hook!
